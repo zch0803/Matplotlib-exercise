@@ -1,0 +1,40 @@
+GO result,MII,zygote,early,2cell,4cell,8cell,ICM,mESC
+DNA repair,3,2,4,13,17,16,16,17
+mitotic nuclear division,2,3,4,13,9,4,11,9
+cellular response to DNA damage stimulus,3,5,6,13,19,16,20,16
+"transcription, DNA-templated",2,6,4,11,20,13,24,10
+covalent chromatin modification,3,2,7,11,23,15,15,9
+protein transport,2,3,5,11,11,13,20,11
+cell division,2,3,5,14,8,6,13,11
+cell cycle,3,3,6,20,16,9,22,12
+mRNA processing,2,2,6,3,8,9,12,6
+negative regulation of transcription from RNA polymerase II promoter,2,3,2,4,3,4,6,4
+brain development,4,4,2,2,4,3,2,2
+cytoskeleton organization,,3,5,,4,,,
+"positive regulation of transcription, DNA-templated",,3,5,,,,6,4
+protein ubiquitination,,3,4,7,5,6,7,4
+phosphorylation,,7,7,13,5,7,12,
+protein phosphorylation,,5,6,10,5,7,10,
+positive regulation of transcription from RNA polymerase II promoter,,3,3,3,6,5,8,
+endocytosis,,2,3,4,6,,6,3
+intracellular signal transduction,,4,3,4,4,,4,
+peptidyl-serine phosphorylation,,6,4,8,5,4,,
+protein autophosphorylation,,3,4,8,,4,7,
+protein polyubiquitination,,2,2,5,,3,5,
+regulation of translation,4,,,4,6,8,6,6
+"regulation of transcription, DNA-templated",,5,,6,11,7,15,6
+ubiquitin-dependent protein catabolic process,2,,,5,5,7,8,6
+DNA replication,,,,3,5,7,9,7
+transport,,,,4,9,7,7,5
+intracellular protein transport,,,,6,5,7,6,4
+autophagy,,,,7,6,7,,
+in utero embryonic development,,,,,4,6,6,
+rRNA processing,,,,,7,4,5,
+RNA splicing,,,,,6,5,9,7
+cell-cell adhesion,,,,,4,5,7,4
+vesicle-mediated transport,,,,,4,7,5,4
+chromosome segregation,2,,4,5,,4,7,3
+rhythmic process,,,,,7,,5,4
+mRNA transport,,,4,4,,,5,6
+protein ubiquitination involved in ubiquitin-dependent protein catabolic process,,,,5,,,7,3
+double-strand break repair,,,,4,,,6,3
